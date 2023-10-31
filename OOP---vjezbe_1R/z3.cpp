@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    string ime = "emir"; // string je tip podatka koji sadrzi tekst, u ovom slucaju moje ime
+    string ime = "Emir"; // string je tip podatka koji sadrzi tekst, u ovom slucaju moje ime
 
     for (int i = 0; i < 5; i++ ) /* umjesto da kucamo cout ime pet puta, pravimo for petlju koja ce to uraditi za nas
     u zagradama se definise cijeli broj i odnosno INTEGER i koji je 0, dalje kazemo i ne smije biti vece od 5 
