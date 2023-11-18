@@ -1,11 +1,15 @@
 #include <iostream>
 using namespace std;
 
+
 int main(){
 
-    for (int i=1; i<=10; i++){
-        cout << i << "\t";
+    int broj = 10;
+
+    while (broj != 0){
+        cout << broj-- << endl;
     }
+
 
 
     return 0;
