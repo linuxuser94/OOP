@@ -7,6 +7,7 @@
     <br />
     samostalno_vjezbanje je folder sa svim zadatcima ostavljenim za vjezbanje.
     Postoje i rjesenja od profesorice Vidović ali ona ne obuhvataju sve zadatke.
+    <br />
     Ta rjesenja se nalaze u:
     <ul> 
     <li>OOP/samostalno_vjezbanje/zadatci_za_vjezbanje/valentina_predavanje_1_i_2</li>
