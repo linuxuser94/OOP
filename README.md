@@ -5,7 +5,7 @@
 <p>
     sa_nastave je folder svih zadataka vjezbanih na nastavi.
     <br />
-    samostalno_vjezbanje je folder sa svim zadatcima ostavljenim za vjezbanje.
+    samostalno_vjezbanje je folder sa svim zadatcima ostavljenim za vjezbanje sa mojim rjesenjima. U njemu se nalaze i svi dokumenti koji obuhvataju sve zadatke plus dodatne.
     <br /><br />
     Postoje i rjesenja od profesorice Vidović ali ona ne obuhvataju sve zadatke.
     <br /><br />
